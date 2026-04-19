@@ -1,0 +1,11 @@
+Ejercicio 4 - Análisis del residuo
+==================================================
+Número de observaciones: 1827
+Media: 0.127078
+Desviación estándar: 3.222043
+Asimetría: -0.050917
+Curtosis: -0.061028
+p-value Jarque-Bera: 0.576561
+p-value ADF: 0.000000
+Conclusión breve: el residuo tiene media cercana a 0, parece
+aproximadamente normal y se comporta bastante como ruido.

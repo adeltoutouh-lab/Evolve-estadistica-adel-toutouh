@@ -1,0 +1,12 @@
+Regresión Lineal Múltiple — Coeficientes ajustados
+==================================================
+Intercepto (β0): 5.073486
+β1 (feature 1): 1.901816
+β2 (feature 2): -0.809869
+β3 (feature 3): 0.675742
+
+Coeficientes reales de referencia
+Intercepto (β0): 5.000000
+β1 (feature 1): 2.000000
+β2 (feature 2): -1.000000
+β3 (feature 3): 0.500000

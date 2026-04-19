@@ -1,0 +1,13 @@
+Ejercicio 2 - Métricas de la regresión lineal
+==================================================
+Columnas eliminadas por multicolinealidad: x, y, z
+
+Conjunto de entrenamiento
+MAE  : 806.4342
+RMSE : 1162.2852
+R²   : 0.9152
+
+Conjunto de test
+MAE  : 785.0183
+RMSE : 1127.7005
+R²   : 0.9193

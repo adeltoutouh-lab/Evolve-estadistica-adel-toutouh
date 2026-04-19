@@ -1,0 +1,17 @@
+Ejercicio 1 - Resumen de limpieza y outliers
+=======================================================
+Filas iniciales: 53940
+Filas eliminadas por dimensiones imposibles (x, y o z <= 0): 20
+Filas eliminadas por valores extremos en x, y, z (Z-score > 5): 3
+Filas finales: 53917
+
+Outliers detectados en price con criterio IQR
+Q1: 949.0000
+Q3: 5323.0000
+IQR: 4374.0000
+Límite inferior: -5612.0000
+Límite superior: 11884.0000
+Número de outliers en price: 3531
+Porcentaje de outliers en price: 6.5490%
+Decisión: no se eliminan los outliers de price porque parecen
+valores reales del mercado y no errores evidentes de medición.
